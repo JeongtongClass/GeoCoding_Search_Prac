@@ -1,0 +1,2 @@
+rootProject.name='GeoCoding_Search_Prac'
+include ':app'
